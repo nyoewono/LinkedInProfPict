@@ -35,3 +35,10 @@ out the name of the image, indication if there is a teeth or not, caption, categ
 version. Replace the google chrome in the driver folder with the downloaded one.
 - Warnings may appear about the tensor flow, but this will not effect the result.
 - Slow internet connection may disrupt selenium worker on scraping the image.
+
+#### Credits:
+I would like to give a huge thanks on AI Australia for giving me a chance to make this code for part of the internship selection as a Data Scientist. 
+- Link for the pre-trained sentiment model: 
+https://towardsdatascience.com/face-detection-recognition-and-emotion-detection-in-8-lines-of-code-b2ce32d4d5de by Priya Dwivedi
+- Link for the teeth cascade:
+https://github.com/HoorayLee/TeethDetector by Horay Lee
