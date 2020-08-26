@@ -2,12 +2,12 @@
 
 ## About
 This repository consist of 2 main script: main.py and face_recognition.py. The main.py code set an example on how to use the face_recognition class module in order for user 
-that does not familiar with code could use the script. This repository mainly is about taking a profile picture from linkedin profile using a specified url given by the user, 
+that is not familiar with code could use the script. This repository mainly is about taking a profile picture from linkedin profile using a specified url given by the user, 
 and analyse the image for its sentiment, teeth appearance, and visual recognition using Miscrosoft Computer Vision API. 
 
 ## Steps
 1. To run the program, one must pip install the packages library that is used in the class script (face_recognition).
-2. Create a Microsoft Computer Vision API first and get the subs key and endpoint
+2. Create a Microsoft Computer Vision API account first and get the subs key and endpoint
 3. Create an environment file and fill the following keys:
 
 - USERNAME: .... (linkedin email address)
